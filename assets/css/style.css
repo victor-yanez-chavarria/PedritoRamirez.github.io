@@ -1,0 +1,57 @@
+body{
+  background-color: rgb(15, 8, 0);
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 3px solid rgb(28, 5, 65);
+}
+.fondo{
+  background-color: rgba(182, 198, 212, 0.911);
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+header{
+  text-align: center;
+}
+h1{
+  padding-top: 40px;
+}
+main{
+  padding-top: 20px;
+}
+
+article .perfil{
+  /* border: 3px solid red; */
+  font-family: "Raleway", sans-serif;
+  font-size: 25px;
+  margin-right: 10%;
+  margin-left: 5%;
+}
+article h2{
+  margin-left: 20px;
+}
+.datper{
+  margin-left: 20px;
+
+}
+.tabla1{
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+}
+.edu{
+  margin-left: 20px;
+}
+section ul{
+  font-size: 20px; 
+  margin-left: 45px;
+}
+.exp{
+  margin-left: 20px;
+}
+footer{
+  height: 90px;
+  text-align: center;
+  line-height: 4rem;
+  font-weight: 700; 
+  font-size: 19px;
+}
